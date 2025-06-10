@@ -1,4 +1,4 @@
-# 👋 Hi, I’m sahood!
+# 👋 Hi, I’m Sahood!
 
 ## 🚀 Senior Software Web Developer
 
